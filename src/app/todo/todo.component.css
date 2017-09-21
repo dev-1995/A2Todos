@@ -1,0 +1,18 @@
+ul
+{
+	text-decoration: none;
+	list-style: none;
+
+}
+
+ul>li
+{
+	padding-top: 10px;
+	font-size: 20px;
+
+}
+
+.lth
+{
+	text-decoration: line-through;
+}
