@@ -16,14 +16,7 @@
       "lname":"lname",
 	"fname": "Garrett Winters",
       "jobtitle": "Accountant",
-      "salary": [  
-            {  
-               "name":"Marketing"
-            },
-            {  
-               "name":"Analytics"
-            }
-         ],
+      "salary":"$100,00",
       "dob": "2011/07/25",
       "office": "Tokyo",
       "status":"good",
